@@ -55,5 +55,9 @@ public class ThreeLetterAcronym {
     public static void TurrellwasHere(){
             System.out.println("Turrell Was Here");
 }
+    public static void smithWasHere(){
+     System.out.println("Smith was here");
+ }
+
     
 }
